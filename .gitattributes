@@ -1,2 +1,12 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Parking Space Picker is a computer vision project that detects open parking spaces using real-time video feed processing. It utilizes OpenCV and computer vision techniques to analyze parking lot footage and determine available spaces efficiently.
+
+
+Clone the repository:
+git clone https://github.com/yourusername/ParkingSpacePicker.git
+cd ParkingSpacePicker
+
+Install dependencies:
+pip install opencv-python numpy cvzone
+
+Run the script:
+python parking_space_picker.py
